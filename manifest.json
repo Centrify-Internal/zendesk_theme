@@ -70,10 +70,10 @@
           "options": [
             {
               "label": "Manrope",
-              "value": "Manrope,sans-serif"
+              "value": "Manrope, sans-serif"
             }
           ],
-          "value": "Manrope,sans-serif"
+          "value": "Manrope, sans-serif"
         },
         {
           "identifier": "text_font",
@@ -83,10 +83,10 @@
           "options": [
             {
               "label": "Manrope",
-              "value": "Manrope,sans-serif"
+              "value": "Manrope, sans-serif"
             }
           ],
-          "value": "Manrope,sans-serif"
+          "value": "Manrope, sans-serif"
         }
       ]
     },
